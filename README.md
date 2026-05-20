@@ -1,5 +1,12 @@
-# 💫 About Me:
-I've worked on various fullstack projects like a blogging app, healthbooker,.<br>currentlhy interning at a bank to optimise its website and make it more interactive and add new functionalities. <br>the techs i am used to are: HTML,CSS,JS, NODE,REACT, MONGODB, EXPRESS, APPWRITE, POSTMAN, TYPESCRIPT AND C++.<br>I WANT TO LEARN AND COTRIBUTE MORE TO DEVELOPERS COMMUNITY! <br>
+# Hi there, I'm Kunal 👋
+
+I'm a software developer and an undergraduate at IIT BHU, deeply interested in building scalable and impactful software solutions. I enjoy turning ideas into real-world applications and continuously exploring modern web technologies.
+
+## 🚀 About Me
+- Worked on multiple fullstack projects including a Blogging Platform and HealthBooker
+- Currently interning at a bank, where I'm working on optimizing the website, improving interactivity, and adding new functionalities
+- Strong interest in frontend engineering, fullstack development, and problem solving
+- Always eager to learn new technologies and contribute to the developer community
 
 
 ## 🌐 Socials:
